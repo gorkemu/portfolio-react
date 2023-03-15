@@ -1,1 +1,9 @@
-# Personal Portfolio with Create React App
+# Description
+
+Basic peronal portfolio using React and Tailwind
+
+# Live Demo
+
+# License
+
+[MIT Licence](https://github.com/gorkemu/portfolio-react/blob/04a4e303cded4ad967fe83924077b84ed26432f3/LICENSE)
