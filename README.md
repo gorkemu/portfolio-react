@@ -1,6 +1,6 @@
 # Description
 
-Basic peronal portfolio using React and Tailwind
+Personal portfolio using React and Tailwind
 
 [Live Demo](https://gorkemu.github.io/portfolio-react)
 
