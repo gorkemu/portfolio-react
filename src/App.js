@@ -5,7 +5,7 @@ import Sidebar from "./components/Sidebar";
 
 function App() {
   return (
-    <div className="grid bg-black text-light font-cormorant">
+    <div className="grid bg-black text-light font-cormorant overflow-x-hidden">
       <Nav />
       <Sidebar />
       <Main />
