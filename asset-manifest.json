@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.88ee617a.css",
+    "main.js": "/portfolio-react/static/js/main.ffb26fe5.js",
+    "static/media/twitter-clone.png": "/portfolio-react/static/media/twitter-clone.64573b97d387fe504e25.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.88ee617a.css.map": "/portfolio-react/static/css/main.88ee617a.css.map",
+    "main.ffb26fe5.js.map": "/portfolio-react/static/js/main.ffb26fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ee617a.css",
+    "static/js/main.ffb26fe5.js"
+  ]
+}
