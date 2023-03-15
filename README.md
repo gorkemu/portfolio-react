@@ -2,7 +2,7 @@
 
 Basic peronal portfolio using React and Tailwind
 
-# Live Demo
+[Live Demo](https://gorkemu.github.io/portfolio-react)
 
 # License
 
